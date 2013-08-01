@@ -7,6 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8C720C8717A6764C00680C20 /* Bomb.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7617A6764C00680C20 /* Bomb.ccbi */; };
+		8C720C8817A6764C00680C20 /* ccbDefaultImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7717A6764C00680C20 /* ccbDefaultImages.png */; };
+		8C720C8917A6764C00680C20 /* ccbParticleFire.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7817A6764C00680C20 /* ccbParticleFire.png */; };
+		8C720C8A17A6764C00680C20 /* ccbParticleSmoke.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7917A6764C00680C20 /* ccbParticleSmoke.png */; };
+		8C720C8B17A6764C00680C20 /* ccbParticleSnow.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7A17A6764C00680C20 /* ccbParticleSnow.png */; };
+		8C720C8C17A6764C00680C20 /* ccbParticleStars.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7B17A6764C00680C20 /* ccbParticleStars.png */; };
+		8C720C8D17A6764C00680C20 /* cloud-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7C17A6764C00680C20 /* cloud-hd.png */; };
+		8C720C8E17A6764C00680C20 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7D17A6764C00680C20 /* cloud.png */; };
+		8C720C8F17A6764C00680C20 /* Coin.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7E17A6764C00680C20 /* Coin.ccbi */; };
+		8C720C9017A6764C00680C20 /* EndCoin.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C7F17A6764C00680C20 /* EndCoin.ccbi */; };
+		8C720C9117A6764C00680C20 /* gameobjects.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8017A6764C00680C20 /* gameobjects.png */; };
+		8C720C9217A6764C00680C20 /* logo-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8117A6764C00680C20 /* logo-hd.png */; };
+		8C720C9317A6764C00680C20 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8217A6764C00680C20 /* logo.png */; };
+		8C720C9417A6764C00680C20 /* play-button-down-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8317A6764C00680C20 /* play-button-down-hd.png */; };
+		8C720C9517A6764C00680C20 /* play-button-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8417A6764C00680C20 /* play-button-down.png */; };
+		8C720C9617A6764C00680C20 /* play-button-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8517A6764C00680C20 /* play-button-hd.png */; };
+		8C720C9717A6764C00680C20 /* play-button.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720C8617A6764C00680C20 /* play-button.png */; };
+		8C720C9B17A7B9BD00680C20 /* Dragon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720C9917A7B9BC00680C20 /* Dragon.cpp */; };
+		8C720CA217A7CC5F00680C20 /* level.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720CA017A7CC5E00680C20 /* level.cpp */; };
+		8C720CA517A7E69000680C20 /* Dragon.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CA317A7E69000680C20 /* Dragon.ccbi */; };
+		8C720CA617A7E69000680C20 /* Level.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CA417A7E69000680C20 /* Level.ccbi */; };
+		8C720CA917A7F5FA00680C20 /* Coin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720CA717A7F5FA00680C20 /* Coin.cpp */; };
+		8C720CAC17A7F63700680C20 /* EndCoin.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720CAA17A7F63500680C20 /* EndCoin.cpp */; };
+		8C720CC217A9083A00680C20 /* Bomb.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720CC017A9083800680C20 /* Bomb.cpp */; };
+		8C720CC617A911E500680C20 /* gameobjects-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CC317A911E400680C20 /* gameobjects-hd.plist */; };
+		8C720CC717A911E500680C20 /* gameobjects-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CC417A911E400680C20 /* gameobjects-hd.png */; };
+		8C720CC817A911E500680C20 /* gameobjects.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CC517A911E400680C20 /* gameobjects.plist */; };
+		8C720CCB17A9195B00680C20 /* GameScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C720CC917A9195800680C20 /* GameScene.cpp */; };
+		8C720CCD17A919C100680C20 /* GameScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8C720CCC17A919C100680C20 /* GameScene.ccbi */; };
 		8CB3BBB717A2B16E008A4719 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CB3BBB617A2B16E008A4719 /* QuartzCore.framework */; };
 		8CB3BBB917A2B16E008A4719 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CB3BBB817A2B16E008A4719 /* OpenGLES.framework */; };
 		8CB3BBBB17A2B16E008A4719 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CB3BBBA17A2B16E008A4719 /* OpenAL.framework */; };
@@ -280,9 +309,59 @@
 		8CB3BF5417A2B174008A4719 /* libwebsockets.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CB3BF5317A2B174008A4719 /* libwebsockets.a */; };
 		8CB3BF5A17A2B174008A4719 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3BF5917A2B174008A4719 /* AppDelegate.cpp */; };
 		8CB3BF5D17A2B174008A4719 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB3BF5C17A2B174008A4719 /* HelloWorldScene.cpp */; };
+		8CB8F98D17A2B31B0038B373 /* MainMenuScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8F98A17A2B31B0038B373 /* MainMenuScene.cpp */; };
+		8CB8F9A017A2B3600038B373 /* ccbDefaultImages.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99117A2B3600038B373 /* ccbDefaultImages.plist */; };
+		8CB8F9A117A2B3600038B373 /* ccbDefaultImages.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99217A2B3600038B373 /* ccbDefaultImages.png */; };
+		8CB8F9A217A2B3600038B373 /* ccbParticleFire.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99317A2B3600038B373 /* ccbParticleFire.png */; };
+		8CB8F9A317A2B3600038B373 /* ccbParticleSmoke.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99417A2B3600038B373 /* ccbParticleSmoke.png */; };
+		8CB8F9A417A2B3600038B373 /* ccbParticleSnow.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99517A2B3600038B373 /* ccbParticleSnow.png */; };
+		8CB8F9A517A2B3600038B373 /* ccbParticleStars.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99617A2B3600038B373 /* ccbParticleStars.png */; };
+		8CB8F9A617A2B3600038B373 /* fileLookup.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99817A2B3600038B373 /* fileLookup.plist */; };
+		8CB8F9A717A2B3600038B373 /* main.js in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8F99917A2B3600038B373 /* main.js */; };
+		8CB8F9A817A2B3600038B373 /* MainMenuScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99A17A2B3600038B373 /* MainMenuScene.ccbi */; };
+		8CB8F9A917A2B3600038B373 /* MainScene.ccbi in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99B17A2B3600038B373 /* MainScene.ccbi */; };
+		8CB8F9AA17A2B3600038B373 /* MainScene.js in Sources */ = {isa = PBXBuildFile; fileRef = 8CB8F99C17A2B3600038B373 /* MainScene.js */; };
+		8CB8F9AB17A2B3600038B373 /* clickme-down.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99E17A2B3600038B373 /* clickme-down.png */; };
+		8CB8F9AC17A2B3600038B373 /* clickme.png in Resources */ = {isa = PBXBuildFile; fileRef = 8CB8F99F17A2B3600038B373 /* clickme.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8C720C7617A6764C00680C20 /* Bomb.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = Bomb.ccbi; sourceTree = "<group>"; };
+		8C720C7717A6764C00680C20 /* ccbDefaultImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ccbDefaultImages.png; path = "Resources/CocoasDragon/Published-iOS/ccbDefaultImages.png"; sourceTree = "<group>"; };
+		8C720C7817A6764C00680C20 /* ccbParticleFire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ccbParticleFire.png; path = "Resources/CocoasDragon/Published-iOS/ccbParticleFire.png"; sourceTree = "<group>"; };
+		8C720C7917A6764C00680C20 /* ccbParticleSmoke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ccbParticleSmoke.png; path = "Resources/CocoasDragon/Published-iOS/ccbParticleSmoke.png"; sourceTree = "<group>"; };
+		8C720C7A17A6764C00680C20 /* ccbParticleSnow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ccbParticleSnow.png; path = "Resources/CocoasDragon/Published-iOS/ccbParticleSnow.png"; sourceTree = "<group>"; };
+		8C720C7B17A6764C00680C20 /* ccbParticleStars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ccbParticleStars.png; path = "Resources/CocoasDragon/Published-iOS/ccbParticleStars.png"; sourceTree = "<group>"; };
+		8C720C7C17A6764C00680C20 /* cloud-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "cloud-hd.png"; path = "Resources/CocoasDragon/Published-iOS/cloud-hd.png"; sourceTree = "<group>"; };
+		8C720C7D17A6764C00680C20 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cloud.png; path = "Resources/CocoasDragon/Published-iOS/cloud.png"; sourceTree = "<group>"; };
+		8C720C7E17A6764C00680C20 /* Coin.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = Coin.ccbi; path = "Resources/CocoasDragon/Published-iOS/Coin.ccbi"; sourceTree = "<group>"; };
+		8C720C7F17A6764C00680C20 /* EndCoin.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; name = EndCoin.ccbi; path = "Resources/CocoasDragon/Published-iOS/EndCoin.ccbi"; sourceTree = "<group>"; };
+		8C720C8017A6764C00680C20 /* gameobjects.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gameobjects.png; path = "Resources/CocoasDragon/Published-iOS/gameobjects.png"; sourceTree = "<group>"; };
+		8C720C8117A6764C00680C20 /* logo-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-hd.png"; path = "Resources/CocoasDragon/Published-iOS/logo-hd.png"; sourceTree = "<group>"; };
+		8C720C8217A6764C00680C20 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = "Resources/CocoasDragon/Published-iOS/logo.png"; sourceTree = "<group>"; };
+		8C720C8317A6764C00680C20 /* play-button-down-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down-hd.png"; path = "Resources/CocoasDragon/Published-iOS/play-button-down-hd.png"; sourceTree = "<group>"; };
+		8C720C8417A6764C00680C20 /* play-button-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-down.png"; path = "Resources/CocoasDragon/Published-iOS/play-button-down.png"; sourceTree = "<group>"; };
+		8C720C8517A6764C00680C20 /* play-button-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button-hd.png"; path = "Resources/CocoasDragon/Published-iOS/play-button-hd.png"; sourceTree = "<group>"; };
+		8C720C8617A6764C00680C20 /* play-button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "play-button.png"; path = "Resources/CocoasDragon/Published-iOS/play-button.png"; sourceTree = "<group>"; };
+		8C720C9817A7B4BE00680C20 /* NodeCommon.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = NodeCommon.h; path = Classes/NodeCommon.h; sourceTree = "<group>"; };
+		8C720C9917A7B9BC00680C20 /* Dragon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Dragon.cpp; path = Classes/Dragon.cpp; sourceTree = "<group>"; };
+		8C720C9A17A7B9BC00680C20 /* Dragon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Dragon.h; path = Classes/Dragon.h; sourceTree = "<group>"; };
+		8C720CA017A7CC5E00680C20 /* level.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = level.cpp; path = Classes/level.cpp; sourceTree = "<group>"; };
+		8C720CA117A7CC5F00680C20 /* level.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = level.h; path = Classes/level.h; sourceTree = "<group>"; };
+		8C720CA317A7E69000680C20 /* Dragon.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = Dragon.ccbi; sourceTree = "<group>"; };
+		8C720CA417A7E69000680C20 /* Level.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = Level.ccbi; sourceTree = "<group>"; };
+		8C720CA717A7F5FA00680C20 /* Coin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = Coin.cpp; path = Classes/Coin.cpp; sourceTree = "<group>"; };
+		8C720CA817A7F5FA00680C20 /* Coin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Coin.h; path = Classes/Coin.h; sourceTree = "<group>"; };
+		8C720CAA17A7F63500680C20 /* EndCoin.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = EndCoin.cpp; sourceTree = "<group>"; };
+		8C720CAB17A7F63600680C20 /* EndCoin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EndCoin.h; sourceTree = "<group>"; };
+		8C720CC017A9083800680C20 /* Bomb.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Bomb.cpp; sourceTree = "<group>"; };
+		8C720CC117A9083900680C20 /* Bomb.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bomb.h; sourceTree = "<group>"; };
+		8C720CC317A911E400680C20 /* gameobjects-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "gameobjects-hd.plist"; sourceTree = "<group>"; };
+		8C720CC417A911E400680C20 /* gameobjects-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gameobjects-hd.png"; sourceTree = "<group>"; };
+		8C720CC517A911E400680C20 /* gameobjects.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = gameobjects.plist; sourceTree = "<group>"; };
+		8C720CC917A9195800680C20 /* GameScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameScene.cpp; sourceTree = "<group>"; };
+		8C720CCA17A9195900680C20 /* GameScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		8C720CCC17A919C100680C20 /* GameScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = GameScene.ccbi; sourceTree = "<group>"; };
 		8CB3BBB217A2B16E008A4719 /* CocosDragon2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CocosDragon2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CB3BBB617A2B16E008A4719 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8CB3BBB817A2B16E008A4719 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -873,6 +952,22 @@
 		8CB3BF5917A2B174008A4719 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		8CB3BF5B17A2B174008A4719 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		8CB3BF5C17A2B174008A4719 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		8CB8F98A17A2B31B0038B373 /* MainMenuScene.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = MainMenuScene.cpp; path = Classes/MainMenuScene.cpp; sourceTree = "<group>"; };
+		8CB8F98B17A2B31B0038B373 /* MainMenuScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainMenuScene.h; path = Classes/MainMenuScene.h; sourceTree = "<group>"; };
+		8CB8F98C17A2B31B0038B373 /* MainMenuSceneLoader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainMenuSceneLoader.h; path = Classes/MainMenuSceneLoader.h; sourceTree = "<group>"; };
+		8CB8F99117A2B3600038B373 /* ccbDefaultImages.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ccbDefaultImages.plist; sourceTree = "<group>"; };
+		8CB8F99217A2B3600038B373 /* ccbDefaultImages.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbDefaultImages.png; sourceTree = "<group>"; };
+		8CB8F99317A2B3600038B373 /* ccbParticleFire.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleFire.png; sourceTree = "<group>"; };
+		8CB8F99417A2B3600038B373 /* ccbParticleSmoke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleSmoke.png; sourceTree = "<group>"; };
+		8CB8F99517A2B3600038B373 /* ccbParticleSnow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleSnow.png; sourceTree = "<group>"; };
+		8CB8F99617A2B3600038B373 /* ccbParticleStars.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ccbParticleStars.png; sourceTree = "<group>"; };
+		8CB8F99817A2B3600038B373 /* fileLookup.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = fileLookup.plist; sourceTree = "<group>"; };
+		8CB8F99917A2B3600038B373 /* main.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+		8CB8F99A17A2B3600038B373 /* MainMenuScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = MainMenuScene.ccbi; sourceTree = "<group>"; };
+		8CB8F99B17A2B3600038B373 /* MainScene.ccbi */ = {isa = PBXFileReference; lastKnownFileType = file; path = MainScene.ccbi; sourceTree = "<group>"; };
+		8CB8F99C17A2B3600038B373 /* MainScene.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = MainScene.js; sourceTree = "<group>"; };
+		8CB8F99E17A2B3600038B373 /* clickme-down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clickme-down.png"; sourceTree = "<group>"; };
+		8CB8F99F17A2B3600038B373 /* clickme.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = clickme.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -944,6 +1039,23 @@
 		8CB3BBC717A2B16E008A4719 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				8C720C7717A6764C00680C20 /* ccbDefaultImages.png */,
+				8C720C7817A6764C00680C20 /* ccbParticleFire.png */,
+				8C720C7917A6764C00680C20 /* ccbParticleSmoke.png */,
+				8C720C7A17A6764C00680C20 /* ccbParticleSnow.png */,
+				8C720C7B17A6764C00680C20 /* ccbParticleStars.png */,
+				8C720C7C17A6764C00680C20 /* cloud-hd.png */,
+				8C720C7D17A6764C00680C20 /* cloud.png */,
+				8C720C7E17A6764C00680C20 /* Coin.ccbi */,
+				8C720C7F17A6764C00680C20 /* EndCoin.ccbi */,
+				8C720C8017A6764C00680C20 /* gameobjects.png */,
+				8C720C8117A6764C00680C20 /* logo-hd.png */,
+				8C720C8217A6764C00680C20 /* logo.png */,
+				8C720C8317A6764C00680C20 /* play-button-down-hd.png */,
+				8C720C8417A6764C00680C20 /* play-button-down.png */,
+				8C720C8517A6764C00680C20 /* play-button-hd.png */,
+				8C720C8617A6764C00680C20 /* play-button.png */,
+				8CB8F98F17A2B3600038B373 /* Published-iOS */,
 				8CB3BBC817A2B16E008A4719 /* CloseNormal.png */,
 				8CB3BBCA17A2B16E008A4719 /* CloseSelected.png */,
 				8CB3BBCC17A2B16E008A4719 /* Default.png */,
@@ -2093,12 +2205,80 @@
 		8CB3BF5717A2B174008A4719 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+				8CB8F98A17A2B31B0038B373 /* MainMenuScene.cpp */,
+				8CB8F98B17A2B31B0038B373 /* MainMenuScene.h */,
+				8CB8F98C17A2B31B0038B373 /* MainMenuSceneLoader.h */,
 				8CB3BF5817A2B174008A4719 /* AppDelegate.h */,
 				8CB3BF5917A2B174008A4719 /* AppDelegate.cpp */,
 				8CB3BF5B17A2B174008A4719 /* HelloWorldScene.h */,
 				8CB3BF5C17A2B174008A4719 /* HelloWorldScene.cpp */,
+				8C720C9817A7B4BE00680C20 /* NodeCommon.h */,
+				8C720C9917A7B9BC00680C20 /* Dragon.cpp */,
+				8C720C9A17A7B9BC00680C20 /* Dragon.h */,
+				8C720CA017A7CC5E00680C20 /* level.cpp */,
+				8C720CA117A7CC5F00680C20 /* level.h */,
+				8C720CA717A7F5FA00680C20 /* Coin.cpp */,
+				8C720CA817A7F5FA00680C20 /* Coin.h */,
+				8C720CAA17A7F63500680C20 /* EndCoin.cpp */,
+				8C720CAB17A7F63600680C20 /* EndCoin.h */,
+				8C720CC017A9083800680C20 /* Bomb.cpp */,
+				8C720CC117A9083900680C20 /* Bomb.h */,
+				8C720CC917A9195800680C20 /* GameScene.cpp */,
+				8C720CCA17A9195900680C20 /* GameScene.h */,
 			);
 			name = Classes;
+			sourceTree = "<group>";
+		};
+		8CB8F98F17A2B3600038B373 /* Published-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				8C720CCC17A919C100680C20 /* GameScene.ccbi */,
+				8C720CC317A911E400680C20 /* gameobjects-hd.plist */,
+				8C720CC417A911E400680C20 /* gameobjects-hd.png */,
+				8C720CC517A911E400680C20 /* gameobjects.plist */,
+				8C720C7617A6764C00680C20 /* Bomb.ccbi */,
+				8C720CA317A7E69000680C20 /* Dragon.ccbi */,
+				8C720CA417A7E69000680C20 /* Level.ccbi */,
+				8CB8F99017A2B3600038B373 /* ccbResources */,
+				8CB8F99817A2B3600038B373 /* fileLookup.plist */,
+				8CB8F99917A2B3600038B373 /* main.js */,
+				8CB8F99A17A2B3600038B373 /* MainMenuScene.ccbi */,
+				8CB8F99B17A2B3600038B373 /* MainScene.ccbi */,
+				8CB8F99C17A2B3600038B373 /* MainScene.js */,
+				8CB8F99D17A2B3600038B373 /* resources-iphone */,
+			);
+			name = "Published-iOS";
+			path = "Resources/CocoasDragon/Published-iOS";
+			sourceTree = "<group>";
+		};
+		8CB8F99017A2B3600038B373 /* ccbResources */ = {
+			isa = PBXGroup;
+			children = (
+				8CB8F99117A2B3600038B373 /* ccbDefaultImages.plist */,
+				8CB8F99217A2B3600038B373 /* ccbDefaultImages.png */,
+				8CB8F99317A2B3600038B373 /* ccbParticleFire.png */,
+				8CB8F99417A2B3600038B373 /* ccbParticleSmoke.png */,
+				8CB8F99517A2B3600038B373 /* ccbParticleSnow.png */,
+				8CB8F99617A2B3600038B373 /* ccbParticleStars.png */,
+				8CB8F99717A2B3600038B373 /* resources-iphone */,
+			);
+			path = ccbResources;
+			sourceTree = "<group>";
+		};
+		8CB8F99717A2B3600038B373 /* resources-iphone */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "resources-iphone";
+			sourceTree = "<group>";
+		};
+		8CB8F99D17A2B3600038B373 /* resources-iphone */ = {
+			isa = PBXGroup;
+			children = (
+				8CB8F99E17A2B3600038B373 /* clickme-down.png */,
+				8CB8F99F17A2B3600038B373 /* clickme.png */,
+			);
+			path = "resources-iphone";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -2164,6 +2344,40 @@
 				8CB3BBDD17A2B16E008A4719 /* iTunesArtwork in Resources */,
 				8CB3BC7C17A2B16F008A4719 /* ChangeLog in Resources */,
 				8CB3BDF017A2B172008A4719 /* project.pbxproj in Resources */,
+				8CB8F9A017A2B3600038B373 /* ccbDefaultImages.plist in Resources */,
+				8CB8F9A117A2B3600038B373 /* ccbDefaultImages.png in Resources */,
+				8CB8F9A217A2B3600038B373 /* ccbParticleFire.png in Resources */,
+				8CB8F9A317A2B3600038B373 /* ccbParticleSmoke.png in Resources */,
+				8CB8F9A417A2B3600038B373 /* ccbParticleSnow.png in Resources */,
+				8CB8F9A517A2B3600038B373 /* ccbParticleStars.png in Resources */,
+				8CB8F9A617A2B3600038B373 /* fileLookup.plist in Resources */,
+				8CB8F9A817A2B3600038B373 /* MainMenuScene.ccbi in Resources */,
+				8CB8F9A917A2B3600038B373 /* MainScene.ccbi in Resources */,
+				8CB8F9AB17A2B3600038B373 /* clickme-down.png in Resources */,
+				8CB8F9AC17A2B3600038B373 /* clickme.png in Resources */,
+				8C720C8717A6764C00680C20 /* Bomb.ccbi in Resources */,
+				8C720C8817A6764C00680C20 /* ccbDefaultImages.png in Resources */,
+				8C720C8917A6764C00680C20 /* ccbParticleFire.png in Resources */,
+				8C720C8A17A6764C00680C20 /* ccbParticleSmoke.png in Resources */,
+				8C720C8B17A6764C00680C20 /* ccbParticleSnow.png in Resources */,
+				8C720C8C17A6764C00680C20 /* ccbParticleStars.png in Resources */,
+				8C720C8D17A6764C00680C20 /* cloud-hd.png in Resources */,
+				8C720C8E17A6764C00680C20 /* cloud.png in Resources */,
+				8C720C8F17A6764C00680C20 /* Coin.ccbi in Resources */,
+				8C720C9017A6764C00680C20 /* EndCoin.ccbi in Resources */,
+				8C720C9117A6764C00680C20 /* gameobjects.png in Resources */,
+				8C720C9217A6764C00680C20 /* logo-hd.png in Resources */,
+				8C720C9317A6764C00680C20 /* logo.png in Resources */,
+				8C720C9417A6764C00680C20 /* play-button-down-hd.png in Resources */,
+				8C720C9517A6764C00680C20 /* play-button-down.png in Resources */,
+				8C720C9617A6764C00680C20 /* play-button-hd.png in Resources */,
+				8C720C9717A6764C00680C20 /* play-button.png in Resources */,
+				8C720CA517A7E69000680C20 /* Dragon.ccbi in Resources */,
+				8C720CA617A7E69000680C20 /* Level.ccbi in Resources */,
+				8C720CC617A911E500680C20 /* gameobjects-hd.plist in Resources */,
+				8C720CC717A911E500680C20 /* gameobjects-hd.png in Resources */,
+				8C720CC817A911E500680C20 /* gameobjects.plist in Resources */,
+				8C720CCD17A919C100680C20 /* GameScene.ccbi in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2423,6 +2637,15 @@
 				8CB3BF4C17A2B174008A4719 /* cpVect.c in Sources */,
 				8CB3BF5A17A2B174008A4719 /* AppDelegate.cpp in Sources */,
 				8CB3BF5D17A2B174008A4719 /* HelloWorldScene.cpp in Sources */,
+				8CB8F98D17A2B31B0038B373 /* MainMenuScene.cpp in Sources */,
+				8CB8F9A717A2B3600038B373 /* main.js in Sources */,
+				8CB8F9AA17A2B3600038B373 /* MainScene.js in Sources */,
+				8C720C9B17A7B9BD00680C20 /* Dragon.cpp in Sources */,
+				8C720CA217A7CC5F00680C20 /* level.cpp in Sources */,
+				8C720CA917A7F5FA00680C20 /* Coin.cpp in Sources */,
+				8C720CAC17A7F63700680C20 /* EndCoin.cpp in Sources */,
+				8C720CC217A9083A00680C20 /* Bomb.cpp in Sources */,
+				8C720CCB17A9195B00680C20 /* GameScene.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2564,6 +2787,7 @@
 				8CB3BF6217A2B174008A4719 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
